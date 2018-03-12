@@ -1,0 +1,31 @@
+header{
+  margin:6rem 0 1rem 0;
+}
+table thead .vertical{
+  -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Safari 3-8 */
+    transform: rotate(-90deg);
+}
+table thead .vertical p{
+  font-size: 10px;
+  line-height: 3px;
+}
+table thead .td-vertical{
+  max-width: 30px;
+  padding-top: 80px;
+}
+table thead tr .titulo-2{
+  text-align: center;
+  position: relative;
+  top: 25px;
+}
+table thead tr td h5, table thead tr td p{
+  font-weight: bold;
+}
+#logo img{
+  width: 100%;
+}
+#tiutlo-acta{
+  top: -30px;
+  position: relative;
+}
